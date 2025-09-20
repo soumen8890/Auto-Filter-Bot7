@@ -51,8 +51,8 @@ MULTIPLE_DB = is_enabled(os.environ.get('MULTIPLE_DB', "True"), False) # Type Tr
 DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://hicit73592:Sf3ketW4B0pFTgvd@cluster0.aa2c7wh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_CHANGE_LIMIT = int(environ.get('DB_CHANGE_LIMIT', "432")) 
 
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Moviekachaska890')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/movieguru9980')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+2MWe1mjU-gcxMjc1')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/south_hindi_movies09')
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/soumen98890')
 UPDATE_CHANNEL_LNK = environ.get('UPDATE_CHANNEL_LNK', 'https://t.me/movieupdat890')
 
